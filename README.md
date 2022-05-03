@@ -1,4 +1,4 @@
-## about me00331254
+## about me
 - 👋 Olá, eu sou @crisdusk 
 - 👀 Eu estou interessado em aprender a programar novas linguagens.
 - Meu email de contato é: emanuely.perboni@escola.pr.gov.br
